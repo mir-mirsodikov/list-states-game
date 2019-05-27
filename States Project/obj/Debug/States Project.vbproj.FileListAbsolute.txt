@@ -1,0 +1,25 @@
+D:\School - Programming\Visual Basic\States Solution\States Project\bin\Debug\States Project.exe.config
+D:\School - Programming\Visual Basic\States Solution\States Project\bin\Debug\States Project.exe
+D:\School - Programming\Visual Basic\States Solution\States Project\bin\Debug\States Project.pdb
+D:\School - Programming\Visual Basic\States Solution\States Project\bin\Debug\States Project.xml
+D:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States Project.vbprojAssemblyReference.cache
+D:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States_Project.frmMain.resources
+D:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States_Project.Resources.resources
+D:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States Project.vbproj.GenerateResource.cache
+D:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States Project.vbproj.CoreCompileInputs.cache
+D:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States Project.exe
+D:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States Project.xml
+D:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States Project.pdb
+E:\School - Programming\Visual Basic\States Solution\States Project\bin\Debug\States Project.exe.config
+E:\School - Programming\Visual Basic\States Solution\States Project\bin\Debug\States Project.exe
+E:\School - Programming\Visual Basic\States Solution\States Project\bin\Debug\States Project.pdb
+E:\School - Programming\Visual Basic\States Solution\States Project\bin\Debug\States Project.xml
+E:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States Project.vbprojAssemblyReference.cache
+E:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States_Project.frmMain.resources
+E:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States_Project.Resources.resources
+E:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States Project.vbproj.GenerateResource.cache
+E:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States Project.vbproj.CoreCompileInputs.cache
+E:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States Project.exe
+E:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States Project.xml
+E:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States Project.pdb
+E:\School - Programming\Visual Basic\States Solution\States Project\obj\Debug\States_Project.frmScores.resources

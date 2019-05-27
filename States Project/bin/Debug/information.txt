@@ -1,0 +1,10 @@
+Welcome to the States Game!
+
+1. Input your name in the name text box.
+2. Select the time limit you want.
+3. Click on "New Game".
+4. Enter state names into text box and click "Check" or press "Enter"
+5. Beware, there is a 6 minute time limit
+6. When youy are done, click under "File" and select "Save"
+
+Thank you for playing!

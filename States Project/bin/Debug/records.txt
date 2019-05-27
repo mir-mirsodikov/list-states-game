@@ -1,0 +1,101 @@
+Name: Akmal
+States:
+Arizona
+Alaska
+Arkansas
+Alabama
+California
+Connecticut
+Colorado
+Delaware
+Florida
+Georgia
+Hawaii
+Iowa
+Indiana
+Illinois
+Idaho
+Kansas
+Kentucky
+Louisiana
+Minnesota
+Maryland
+Missouri
+Massachusetts
+Mississippi
+Montana
+Maine
+Michigan
+New York
+New Jersey
+New Mexico
+Progress: 29 / 50
+Time: 0:00
+
+Name: Mo
+States: 
+Washington
+Oregon
+California
+New Mexico
+Arizona
+Nevada
+Idaho
+Wyoming
+Colorado
+Montana
+Iowa
+Nebraska
+Kansas
+Arkansas
+Texas
+Oklahoma
+Ohio
+Minnesota
+Missouri
+Louisiana
+Florida
+North Carolina
+Progress: 22 / 50
+No Time Limit: 2:01
+
+---------------------------------
+
+Name: Mo
+States: 
+Kansas
+Iowa
+Colorado
+New York
+Progress: 4 / 50
+No Time Limit: 0:13
+
+---------------------------------
+
+Name: No Name
+States: 
+Iowa
+Kansas
+Illinois
+Oklahoma
+Texas
+Progress: 5 / 50
+No Time Limit: 0:23
+
+---------------------------------
+
+Name: Roger
+States: 
+Iowa
+Kansas
+Illinois
+Wyoming
+Oklahoma
+Texas
+Washington
+Maryland
+Progress: 8 / 50
+No Time Limit: 0:48
+
+---------------------------------
+
